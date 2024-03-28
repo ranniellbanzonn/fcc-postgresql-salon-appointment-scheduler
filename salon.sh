@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PSQL="psql --username=yellowflash2041 --dbname=salon --tuples-only -c"
+PSQL="psql --username=freecodecamp --dbname=salon --tuples-only -c"
 
 echo -e "\n~~~~~ MY SALON ~~~~~"
 
